@@ -1,0 +1,11 @@
+customer_id,risk_level,frustration_score,primary_issues,recommended_actions,priority_score
+CUST_000001,High,63.765234224973234,High support volume,Assign dedicated CSM; Executive escalation; Satisfaction survey,47.80211009920662
+CUST_000002,High,64.89132434612841,"Slow resolution times, Payment issues",Satisfaction survey,24.466836068620122
+CUST_000004,High,47.32091308335318,Poor feature adoption,Schedule product training; Satisfaction survey,27.323154776154087
+CUST_000005,High,50.79081612098486,Slow resolution times,Satisfaction survey,30.330938402434786
+CUST_000006,High,52.55263200073303,General dissatisfaction,Satisfaction survey,43.11226042499001
+CUST_000007,High,49.771811640910585,Slow resolution times,Executive escalation; Satisfaction survey,55.43154349227318
+CUST_000008,High,70.0,"High support volume, Slow resolution times, Poor feature adoption",Assign dedicated CSM; Schedule product training; Satisfaction survey,33.22424593213479
+CUST_000009,High,77.78287937404968,"Low engagement, Poor feature adoption, Payment issues",Schedule product training; Proactive outreach call; Satisfaction survey,41.30645778944836
+CUST_000010,High,50.22576970144086,General dissatisfaction,Schedule product training; Satisfaction survey,34.0871151251649
+CUST_000011,High,62.55201358829436,"Slow resolution times, Low engagement, Payment issues",Proactive outreach call; Executive escalation; Satisfaction survey,78.7656040764883

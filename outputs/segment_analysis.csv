@@ -1,0 +1,5 @@
+segment,avg_frustration,frustration_std,customer_count,at_risk_count,avg_mrr,total_mrr,avg_tenure,avg_tickets,at_risk_percentage
+Enterprise,46.01,15.53,775,562,5819.82,4510358.95,24.58,1.95,72.5
+Individual,47.21,15.53,1237,791,28.33,35040.74,23.06,2.04,63.9
+SMB,46.89,15.22,1725,1108,579.02,998811.36,23.46,2.01,64.2
+Startup,47.16,15.07,1263,804,113.18,142952.3,24.04,2.03,63.7

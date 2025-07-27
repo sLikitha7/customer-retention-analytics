@@ -1,0 +1,14 @@
+feature,importance
+support_tickets_3m,0.209208250497324
+tickets_per_month,0.18710677982598561
+avg_resolution_time_hours,0.14504636263468948
+tenure_months,0.1417534219723035
+days_since_last_login,0.07537846912297903
+feature_adoption_score,0.047203194432683226
+late_payments_6m,0.036459881264198725
+mrr_per_tenure,0.03433705308528752
+mrr,0.026792174482697592
+session_duration_avg_min,0.02463561046777805
+engagement_ratio,0.024372358118186725
+login_frequency_weekly,0.02408795851135213
+email_engagement_rate,0.02361848558453425
