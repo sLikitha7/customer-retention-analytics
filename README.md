@@ -113,6 +113,43 @@ silent-churn-platform/
 
 ---
 
+## Model Performance
+
+### Unsupervised Model (Isolation Forest)
+- **Anomalies Detected:** 500 out of 5,000 customers (10%)
+- Used for identifying behavioral outliers without labeled risk data
+
+---
+
+### Supervised Models
+
+#### Random Forest Classifier
+| Class         | Precision | Recall | F1-Score | Support |
+|---------------|-----------|--------|----------|---------|
+| High Risk     | 0.94      | 0.80   | 0.87     | 149     |
+| Medium Risk   | 0.89      | 0.96   | 0.92     | 582     |
+| Low Risk      | 0.94      | 0.85   | 0.89     | 269     |
+| **Accuracy**  |           |        | **0.91** | 1000    |
+
+- **Macro Avg F1 Score:** 0.89  
+- **Weighted Avg F1 Score:** 0.91
+
+---
+
+### Key KPIs
+| Metric                      | Value              |
+|----------------------------|--------------------|
+| Total Customers            | 5,000              |
+| At-Risk Customers          | 3,265 (65.3%)       |
+| Frustrated Customers       | 605 (12.1%)         |
+| Healthy Customers          | 1,130 (22.6%)       |
+| Average Frustration Score  | 46.9                |
+| Monthly Recurring Revenue  | $5,687,163          |
+| At-Risk MRR                | $4,235,905 (74.5%)  |
+| Average Tenure             | 23.7 months         |
+
+---
+
 ## Business Value
 
 This platform enables:
